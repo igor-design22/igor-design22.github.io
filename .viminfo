@@ -1,0 +1,154 @@
+# Этот файл viminfo автоматически создан Vim 7.2.
+# Его можно (осторожно!) редактировать.
+
+# Значение опции 'encoding' в момент записи файла
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~H
+# Командная строка, история (начиная от свежего к старому):
+:q!
+:Q!
+:wq!
+:Wq!
+
+# Строка поиска, история (начиная от свежего к старому):
+
+# Выражение, история (начиная от свежего к старому):
+
+# Строка ввода, история (начиная от свежего к старому):
+
+# Строка ввода, история (начиная от свежего к старому):
+
+# Регистры:
+""1	LINE	0
+	        mysqli_query($conn,"SET NAMES UTF8");
+"2	LINE	0
+	AddDefaultCharset UTF-8
+
+# Глобальные отметки:
+'0  19  8  ~/www/instatop.store/conf/db.php
+'1  20  8  ~/www/instatop.store/conf/db.php
+'2  1  0  ~/www/instatop.store/conf/config.php
+'3  18  0  ~/www/instatop.store/conf/db.php
+'4  1  0  ~/www/instatop.store/index.php
+'5  3  0  ~/www/instatop.store/.htaccess
+
+# Список прыжков (сначала более свежие):
+-'  19  8  ~/www/instatop.store/conf/db.php
+-'  20  8  ~/www/instatop.store/conf/db.php
+-'  18  8  ~/www/instatop.store/conf/db.php
+-'  1  0  ~/www/instatop.store/conf/config.php
+-'  1  0  ~/www/instatop.store/conf/db.php
+-'  1  0  ~/www/instatop.store/index.php
+-'  3  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/.htaccess
+-'  3  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/index.php
+-'  3  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/.htaccess
+-'  3  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/index.php
+-'  3  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/.htaccess
+-'  3  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/index.php
+-'  3  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/.htaccess
+-'  3  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/conf/config.php
+-'  1  0  ~/www/instatop.store/index.php
+-'  3  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/.htaccess
+-'  3  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/index.php
+-'  3  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/.htaccess
+-'  3  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/index.php
+-'  3  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/.htaccess
+-'  3  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/index.php
+-'  3  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/.htaccess
+-'  3  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/conf/config.php
+-'  1  0  ~/www/instatop.store/index.php
+-'  3  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/.htaccess
+-'  3  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/index.php
+-'  3  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/.htaccess
+-'  3  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/index.php
+-'  3  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/.htaccess
+-'  3  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/index.php
+-'  3  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/.htaccess
+-'  3  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/conf/config.php
+-'  1  0  ~/www/instatop.store/index.php
+-'  3  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/.htaccess
+-'  3  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/index.php
+-'  3  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/.htaccess
+-'  3  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/index.php
+-'  3  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/.htaccess
+-'  3  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/index.php
+-'  3  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/.htaccess
+-'  3  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/conf/config.php
+-'  1  0  ~/www/instatop.store/index.php
+-'  3  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/.htaccess
+-'  3  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/.htaccess
+-'  1  0  ~/www/instatop.store/index.php
+-'  3  0  ~/www/instatop.store/.htaccess
+
+# История местных отметок (от более свежих к старым):
+
+> ~/www/instatop.store/conf/db.php
+	"	19	8
+	^	19	40
+	.	19	8
+	+	20	0
+	+	19	8
+
+> ~/www/instatop.store/conf/config.php
+	"	1	0
+
+> ~/www/instatop.store/index.php
+	"	1	0
+
+> ~/www/instatop.store/.htaccess
+	"	3	0
+	.	5	0
+	+	5	0
